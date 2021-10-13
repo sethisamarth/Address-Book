@@ -85,9 +85,6 @@ namespace AddressBook
                 GetPerson();
                 ListingPeople();
 
-                GetPerson();
-                ListingPeople();
-
         }
     }
 
